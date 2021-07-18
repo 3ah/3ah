@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ryleigh
+- 👀 I’m interested in Movies
+- 🌱 I’m currently learning HTML, CSS, Javascript
